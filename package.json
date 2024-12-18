@@ -1,6 +1,6 @@
 {
   "name": "random-pakistani-number",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package to generate random pakistani phone number",
   "main": "index.js",
   "type": "module",
