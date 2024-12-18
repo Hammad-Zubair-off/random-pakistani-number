@@ -1,0 +1,23 @@
+{
+  "name": "random-pakistani-number",
+  "version": "1.0.0",
+  "description": "A package to generate random pakistani phone number",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hammad-Zubair-off/random-pakistani-number.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Hammad Zubair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hammad-Zubair-off/random-pakistani-number/issues"
+  },
+  "homepage": "https://github.com/Hammad-Zubair-off/random-pakistani-number#readme"
+}
